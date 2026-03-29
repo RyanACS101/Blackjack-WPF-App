@@ -1,16 +1,14 @@
-# Blackjack Web App
+# 🃏 Blackjack Web App
 
-## Technologies
-- C#
-- WPF (.NET Framework)
-- Object-Oriented Programming
+Play here 👉 [LIVE DEMO](https://your-link-here)
 
 ## Features
-- Start / Hit / Stand / Restart flow
-- Dealer AI (draw to 17)
-- Win / Loss tracking
-- Card display
-- Desktop UI styling
+- Hit / Stand logic
+- Dealer AI
+- Card visuals
+- Clean UI
 
-## Screenshot
-![App Screenshot](blackjack_screenshot.png)
+## Tech
+- HTML
+- CSS
+- JavaScript

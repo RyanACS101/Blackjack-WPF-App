@@ -1,14 +1,17 @@
-# 🃏 Blackjack Web App
+# 🃏 Blackjack Desktop App (C#, WPF)
 
-Play here 👉 [LIVE DEMO](https://your-link-here)
+This is a Blackjack game built using C# and WPF with MVVM architecture.
 
-## Features
-- Hit / Stand logic
-- Dealer AI
-- Card visuals
-- Clean UI
+## 🚀 Quick Demo
 
-## Tech
-- HTML
-- CSS
-- JavaScript
+(Add screenshot here)
+
+## 📂 Important Files
+
+* `MainWindow.xaml` → UI
+* `MainWindow.xaml.cs` → Logic
+
+## ▶️ Run It
+
+1. Open in Visual Studio
+2. Click Start

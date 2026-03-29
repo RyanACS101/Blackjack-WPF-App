@@ -1,4 +1,4 @@
-# Blackjack WPF Desktop App
+# Blackjack Web App
 
 ## Technologies
 - C#
